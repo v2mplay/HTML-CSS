@@ -1,0 +1,31 @@
+.cardA {
+    background-color: #05750e;
+    width: 400px;
+    height: 400px;
+}
+
+.cardB {
+    background-color: #547054;
+    width: 50%;
+    height: 50%;
+}
+
+.cardC {
+    background-color: rgb(131, 81, 7);
+    color: white;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.cardD {
+    width: 40vw;
+    height: 40vh;
+    background-color: rgb(32, 165, 103);
+}
+
+.cardE {
+    width: 55vw;
+    height: 50%;
+    background-color: rgb(53, 70, 22)
+}
